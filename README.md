@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 # About Me: 
 I am a full-stack software engineer. I’ve always loved solving problems and learning new technologies. I'm hoping to continue learning new programming languages and developing software applications in the future.
