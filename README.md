@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 # About Me: 
 I am a full-stack software engineer. I’ve always loved solving problems and learning new technologies. I'm hoping to continue learning new programming languages and developing software applications in the future.
@@ -27,5 +27,5 @@ I am a full-stack software engineer. I’ve always loved solving problems and le
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-# My Socials
+# My Socials:
 <a href="https://www.linkedin.com/in/jenny-jiang-81033b48/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
